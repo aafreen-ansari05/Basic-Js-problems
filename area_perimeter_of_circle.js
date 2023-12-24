@@ -8,9 +8,12 @@
  *  functiuon name will be in Camel Case and start with VERB [calculateAreaAndParameter]
  */
 function areaPerimeter(r){
+    if(isNaN){
+        console.log("Error! This is not a number.")
+    }
     return "Area : "+(3.142*r*r)+ "  " +("Perimeter : ")+(6.284*r)
 }
 
-let b = areaPerimeter(4);
+let b = areaPerimeter("c");
 console.log(b) ;
  
