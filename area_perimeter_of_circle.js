@@ -7,10 +7,10 @@
  *  return proper value from function
  *  functiuon name will be in Camel Case and start with VERB [calculateAreaAndParameter]
  */
-function AreaandPerimeter(r){
+function areaPerimeter(r){
     return "Area : "+(3.142*r*r)+ "  " +("Perimeter : ")+(6.284*r)
 }
 
-let b = AreaandPerimeter(4);
+let b = areaPerimeter(4);
 console.log(b) ;
  
