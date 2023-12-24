@@ -6,6 +6,9 @@
  * a and b should be Number or integer----
  */
 function sumSubtact(a,b){
+    if(isNaN){
+         console.log("Error! this is not a number.")
+    }
     if(a>b){
         console.log(a-b);
     }
