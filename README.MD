@@ -11,7 +11,7 @@ Target : [Dec 24 , 2023]
     function parameter will be an array : [20,34,56,78,90]
 
 Target : [Dec 25 , 2023]
-- Print the bigger Number
+- Print the bigger Number from two given Number
 -  Print whether a number is event or odd
 - print message if negative nuber is entered.
 - Find quotient and reminder
