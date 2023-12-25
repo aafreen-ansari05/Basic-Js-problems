@@ -1,5 +1,10 @@
+
 let marks = [20,34,56,78,90]
-marks.reduce((seq,e)=>{
-    return marks+e;
-},[])
-console.log(e)
+
+// let total = marks.reduce((acc,e)=>{
+//     return acc+e;
+// },0)
+
+let total = marks.reduce((acc,e)=>acc+e,0)
+
+console.log(total/marks.length)
