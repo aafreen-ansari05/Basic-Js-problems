@@ -1,5 +1,6 @@
 # Basic JS Problems
 
+## Wite JS Program for problems below.
 
 Target : [Dec 24 , 2023]
 - Write a program to convert Celcius into Fahrenheit.
@@ -12,11 +13,11 @@ Target : [Dec 24 , 2023]
 
 Target : [Dec 25 , 2023]
 - Print the bigger Number from two given Number
--  Print whether a number is event or odd
-- print message if negative nuber is entered.
-- Find quotient and reminder
-- Find biggest number from three given Number
-- Find whether a year is leap or not
+- Print whether a number is even or odd ?
+- print message if negative number is entered.
+- Find quotient and reminder of a number
+- Find biggest number from three given Numbers.
+- Find whether a year is leap or not ?
 - Find grade of a student when the mark of 4 subject is given ( 85 > A, 70 > B, 55 > C, 40 > D, else E)
 - Print a number in revese order with a difference of 2
   ( 20, 18, 16,....0)
