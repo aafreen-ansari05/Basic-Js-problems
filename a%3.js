@@ -1,11 +1,24 @@
 /**
- * 
+ *  Add Description Here about function
  * @param {Int} a 
  * @returns {Int}
- * Make sure that a should be a number or integer only----- 
+ * TODO :
+ *    Make sure that a should be a number or integer only
  */
 function remainder(a){
+  
     return a%3;
 }
+
+
+
 let d = remainder(10);
 console.log(d)
+
+
+
+/**
+ * REVIEW:
+ *  ADD About function
+ *  Validate Input parameter data type
+ */
