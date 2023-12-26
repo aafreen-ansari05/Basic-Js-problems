@@ -11,5 +11,9 @@ function num(a){
     }
     return ("Quotient: "+(a/2)+"   Remainder: "+(a%2))
 }
-let b = num(24);
+let b = num(23);
 console.log(b)
+
+
+// Correct this
+// Quotient: 11.5   Remainder: 1

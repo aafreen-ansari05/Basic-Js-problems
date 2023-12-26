@@ -2,7 +2,7 @@
  * If you enter any negative number,then "d" will send you a msg that "You have entered a negative number." 
  * number{Int}
  */
-let number ="a";
+let number =1;
 if(isNaN(number)){
     console.log("You haven't entered a number.")
     return

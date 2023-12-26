@@ -6,7 +6,7 @@
  *    Make sure that a should be a number or integer only
  */
 function remainder(a){
-  
+    // TODO: Validate data Type oof Input parameter
     return a%3;
 }
 

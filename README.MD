@@ -16,8 +16,8 @@ Target : [Dec 25 , 2023]
 - Print whether a number is even or odd ?
 - print message if negative number is entered.
 - Find quotient and reminder of a number
-- Find biggest number from three given Numbers.
-- Find whether a year is leap or not ?
-- Find grade of a student when the mark of 4 subject is given ( 85 > A, 70 > B, 55 > C, 40 > D, else E)
+- Find biggest number from three given Numbers. - Penidng
+- Find whether a year is leap or not ?  - Pending
+- Find grade of a student when the mark of 4 subject is given ( 85 > A, 70 > B, 55 > C, 40 > D, else E) - Pending
 - Print a number in revese order with a difference of 2
   ( 20, 18, 16,....0)

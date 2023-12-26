@@ -19,6 +19,6 @@ while(true){
     if(i==0)break;
     
 }
-console.log(a.reverse())
+console.log(a.reverse().join(""))
 
 
