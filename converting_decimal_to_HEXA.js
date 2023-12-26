@@ -1,3 +1,6 @@
+/**
+ * Converting decimal number into Hexa.
+ */
 let a = [];
 let number =2000;
 while(true){
@@ -6,13 +9,16 @@ while(true){
     let i = Number(number/16);
     
     number=i;
-    a.push(d)
+    if(d==10) a.push("A");
+    else if(d==11) a.push("B");
+    else if(d==12) a.push("C");
+    else if(d==13) a.push("D");
+    else if(d==14) a.push("E");
+    else if (d==15) a.push("F");
+    else a.push(d)
     if(i==0)break;
+    
 }
-console.log(a)
- if(i=10)return("A");
- if(i=11)return("B");
- if(i=12)return("C");
- if(i=13)return("D");
- if(i=14)return("E");
- if(i=15)return("F");
+console.log(a.reverse())
+
+
