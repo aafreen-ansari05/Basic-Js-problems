@@ -18,3 +18,5 @@ if(isNaN(b)){
 let c = a>b?(a):(b);
 
 console.log(c);
+
+// REVIEW : write a function

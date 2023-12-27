@@ -4,14 +4,15 @@
  * @param {Int} a 
  * @returns {string}
  */
-function num(a){
+function num(a, dividedBy){
     if(isNaN(a)){
         console.log("Error! You haven't entered a number.")
         return
     }
-    return ("Quotient: "+(a/2)+"   Remainder: "+(a%2))
+    return ("Quotient: "+(a/dividedBy)+"   Remainder: "+(a%2))
 }
-let b = num(23);
+let dividedBy = 2
+let b = num(23, dividedBy);
 console.log(b)
 
 
