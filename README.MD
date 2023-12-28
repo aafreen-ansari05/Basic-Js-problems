@@ -16,8 +16,18 @@ Target : [Dec 25 , 2023]
 - Print whether a number is even or odd ?
 - print message if negative number is entered.
 - Find quotient and reminder of a number
-- Find biggest number from three given Numbers. - Penidng
-- Find whether a year is leap or not ?  - Pending
-- Find grade of a student when the mark of 4 subject is given ( 85 > A, 70 > B, 55 > C, 40 > D, else E) - Pending
+- Find biggest number from three given Numbers. 
+- Find whether a year is leap or not ?  
+- Find grade of a student when the mark of 4 subject is given ( 85 > A, 70 > B, 55 > C, 40 > D, else E) 
 - Print a number in revese order with a difference of 2
   ( 20, 18, 16,....0)
+
+Target : [Dec 28 , 2023]
+
+- program to print the sum of digits of any number,  45 => 4+5 = 9
+- program to find the product of digits of two number
+- program to find the factorial of number !5= 5 * 4 * 3 * 2 * 1
+- program to count digits in a number, ex => 4537  ans : 4
+- program to generate fibonacci(n) series , ex  1,1, 2,3,5,8,13,34,55...
+- program to Armstrong Number(371 => cube of 3 + cube of 7 + cube of 1)
+- program to find the sum of digits of a number untill the sum is reduce to 1 digit. print(538769 => 38=> 11=> 2)

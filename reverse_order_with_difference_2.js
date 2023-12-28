@@ -3,6 +3,8 @@
  */
 let number = [];               //Empty Array
 
-for (let txt= 20;txt>=0;txt=txt-2){
-    console.log(txt);
+for (let txt= 20;txt>=0;txt -= 2){
+    number.push(txt);
 }
+
+console.error(number)
