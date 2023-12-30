@@ -31,3 +31,23 @@ Target : [Dec 28 , 2023]
 - program to generate fibonacci(n) series , ex  1,1, 2,3,5,8,13,34,55...
 - program to Armstrong Number(371 => cube of 3 + cube of 7 + cube of 1)
 - program to find the sum of digits of a number untill the sum is reduce to 1 digit. print(538769 => 38=> 11=> 2)
+
+Target: 31 DEc, 2023
+
+- Whether a number is prime or not
+- Program to find whether the alphabet is a VOWEl or CONSONANT using switch
+-  Program to check whether a date is valid (DD-MM-YYYY)
+- Program to get difference of two dates in years, months amd date
+- Program to find day of week from a given date.(dd-mm-yyyy)
+- Program to find the LCM and HCF of two numbers.
+-  print pyramids as below
+   1
+   2 2
+   3 3 3
+   4 4 4 4
+- print pyramids as below
+   1
+   1 2
+   1 2 3
+   1 2 3 4
+-  Write a program to calculate permutation nPr [ calculatePermutation(n,r)]
