@@ -1,3 +1,4 @@
+let a=[];
 let num1 = 0;
 let num2 = 1;
 function fibonacci(num){
@@ -6,7 +7,8 @@ function fibonacci(num){
         let sum = num1+num2;
         num1 = num2;
         num2=sum;
+        a.push(num2);
     }
 }
-let g = fibonacci(4)
-console.log(g);
+ fibonacci(4);
+console.log(a);
