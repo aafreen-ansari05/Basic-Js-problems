@@ -14,7 +14,7 @@ while(true){
     number = number-remainder;                  //now the new number is difference of remainder from previous number
     let Quotient = Number(number/10);           
     
-    number=i;
+    number=Quotient;
     Sum.push(cube);
     if (Quotient==0)break;                   //breaking the while loop when quotient will become 0               
 }
