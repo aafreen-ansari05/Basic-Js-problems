@@ -25,9 +25,9 @@ Target : [Dec 25 , 2023]
 Target : [Dec 28 , 2023]
 
 - program to print the sum of digits of any number,  45 => 4+5 = 9
-- program to find the product of digits of two number
+- program to find the product of digits of two number   - PENDING
 - program to find the factorial of number !5= 5 * 4 * 3 * 2 * 1
-- program to count digits in a number, ex => 4537  ans : 4
+- program to count digits in a number, ex => 4537  ans : 4   -PENDING
 - program to generate fibonacci(n) series , ex  1,1, 2,3,5,8,13,34,55...
 - program to Armstrong Number(371 => cube of 3 + cube of 7 + cube of 1)
 - program to find the sum of digits of a number untill the sum is reduce to 1 digit. print(538769 => 38=> 11=> 2)

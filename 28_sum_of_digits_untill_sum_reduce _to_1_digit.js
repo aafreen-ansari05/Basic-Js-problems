@@ -1,16 +1,30 @@
-let Sum = [];                                 //Empty array
-let number = 222343;
-if(isNaN(number)){
-    console.log("Error! You haven't entered a number.")
-}
-while(true){
-    let remainder = number%10;                   
-    number = number-remainder;                  
-    let Quotient = Number(number/10);           
+// 538769 => 38=> 11=> 2
+
+function sumOfDigits(num){
+    let sum = 0;
+
+    while(true){
+        let d = num % 10 ;  // 8   //7   //2   //1
+
+        sum = sum + d;     //8    8+7 + 2 + 1
+
+        num = num - d     //1270  120  10  0
+
+        if(num ==0) break;    // break at 0
+
+        num = num / 10    // 127  12  1
+
+        
+    }
     
-    number=Quotient;
-    Sum.push(remainder);
-    if (Quotient==0)break;                               
+    return sum;
+
 }
-const sumofdigit = Sum. reduce((accumulator, e) => accumulator + e, 0);      
-console.log(sumofdigit);
+
+let number = 538769;
+let sum = sumOfDigits(number);
+console.error(sum)
+while(sum > 10){    
+    sum = sumOfDigits(sum);
+    console.error(sum)
+}
