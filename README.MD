@@ -32,7 +32,7 @@ Target : [Dec 28 , 2023]
 - program to Armstrong Number(371 => cube of 3 + cube of 7 + cube of 1)
 - program to find the sum of digits of a number untill the sum is reduce to 1 digit. print(538769 => 38=> 11=> 2)
 
-Target: [31 Dec, 2023]
+Target: [1 Jan, 2024]
 
 - Whether a number is prime or not
 - Program to find whether the alphabet is a VOWEl or CONSONANT using switch
