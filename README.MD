@@ -50,4 +50,4 @@ Target: [1 Jan, 2024]
    1 2
    1 2 3
    1 2 3 4
--  Write a program to calculate permutation nPr [ calculatePermutation(n,r)]
+-  Write a program to calculate permutation nPr [ calculatePermutation(n,r)]  -DONE
