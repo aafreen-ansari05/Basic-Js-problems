@@ -16,9 +16,9 @@
 
 // const differenceBetweenYears = (Year1-Year2);
 // console.log(differenceBetweenYears);
-var d1 = new Date("08/14/2010"); 
+var d1 = new Date("08/14/2019"); 
 var d2 = new Date("09/14/2020"); 
 
 var diff = d2.getTime() - d1.getTime(); 
-var daydiff = diff / (3.156e+7); 
+var daydiff = diff / (1000*60*60*24); 
 console.log(daydiff);
