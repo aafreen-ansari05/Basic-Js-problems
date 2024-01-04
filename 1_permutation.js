@@ -1,3 +1,8 @@
+/**
+ * calculating permiutation with the given value of n and r
+ * P(n,r) = n!/(n-r)!
+ */
+
 let n = 6;
 let r = 2;
 let f =1;

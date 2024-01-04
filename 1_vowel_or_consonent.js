@@ -1,3 +1,7 @@
+/**
+ * Checking a letter is vowel or consonen
+ * letters should be string data type
+ */
 const letter = "x";
 switch(letter){
     case "a": console.log( "This is a vowel.");

@@ -1,3 +1,4 @@
+
 function pyramid() {
     let numberofRows = 5;
     let a = '';
