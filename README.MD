@@ -38,16 +38,10 @@ Target: [1 Jan, 2024]
 - Program to find whether the alphabet is a VOWEl or CONSONANT using switch  -DONE
 - Program to check whether a date is valid (DD-MM-YYYY)                      -DONE
 - Program to get difference of two dates.                                    -DONE
-- Program to find day of week from a given date.(dd-mm-yyyy)                                                                 
-- Program to find the LCM and HCF of two numbers.                             -DONE
--  print pyramids as below
-   1
-   2 2
-   3 3 3
-   4 4 4 4
-- print pyramids as below                                                      -DONE
+- Program to find the LCM and HCF of two numbers.                            -DONE
+- - print pyramids as below                                                  -DONE
    1
    1 2
    1 2 3
    1 2 3 4
--  Write a program to calculate permutation nPr [ calculatePermutation(n,r)]  -DONE
+-  Write a program to calculate permutation nPr [ calculatePermutation(n,r)]                                   -DONE                                          
